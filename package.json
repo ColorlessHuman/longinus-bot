@@ -1,8 +1,0 @@
-{
-  "name": "longinus-bot",
-  "version": "1.0.0",
-  "description": "The oldest M&B bot",
-  "main": "bot.js",
-  "author": "Jyotirmoy Mandal",
-  "dependencies": {}
-}
